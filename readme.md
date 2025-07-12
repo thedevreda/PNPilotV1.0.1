@@ -374,8 +374,6 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 
 # Final Tips
 
-- Keep your learning and coding **modular** — one step at a time  
-- Write **tests** for scraper & matching logic early  
-- Use **Git** to version control your work  
+- Add a Stock.txt to loop on to see if the buyers offers matching it so you can easily sell to them the parts in Stock
 
 © 2025 PNpilot Project — built with ❤️ by Reda
