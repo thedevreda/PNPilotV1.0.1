@@ -373,7 +373,7 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 ---
 
 # Final Tips
-
+- Using PLaywrite login and save the cookies in json file and scrapy to use cookies and scrap the data (https://chatgpt.com/share/68730e36-098c-8011-87ee-794b6c4926d0)
 - Add a Stock.txt to loop on to see if the buyers offers matching it so you can easily sell to them the parts in Stock
 - Create a login add form so the user can add the login and passowrd of the websites that requiering the login (take the login and password then convert it to .env for each user)
 
