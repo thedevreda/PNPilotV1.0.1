@@ -397,10 +397,12 @@ ILS_PASS=your_password
 - UI will be useless if we upload the bot to cloud and setup it to run daily at specific time (calcule the time for the bot to start based on the hours of work like every 12h instead of every 24h)
 -  Technologies will be useless now (FastAPI, Celery + Redis, SteamlitUi, )
 - Saving files/results:
-  | You want to...                                   | Use this format        |
+- 
+| You want to...                                   | Use this format        |
 | ------------------------------------------------ | ---------------------- |
 | Email yourself daily with simple summary         | ✅ **CSV**              |
 | Later expose this data via API (e.g., FastAPI)   | ✅ **JSON**             |
 | Store everything for later search, stats, audits | ✅ **PostgreSQL (SQL)** |
+
 - More...
 © 2025 PNpilot Project — built with ❤️ by Reda
