@@ -375,5 +375,6 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 # Final Tips
 
 - Add a Stock.txt to loop on to see if the buyers offers matching it so you can easily sell to them the parts in Stock
+- Create a login add form so the user can add the login and passowrd of the websites that requiering the login (take the login and password then convert it to .env for each user)
 
 © 2025 PNpilot Project — built with ❤️ by Reda
