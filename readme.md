@@ -377,5 +377,6 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 - Add a Stock.txt to loop on to see if the buyers offers matching it so you can easily sell to them the parts in Stock
 - Create a login add form so the user can add the login and passowrd of the websites that requiering the login (take the login and password then convert it to .env for each user)
 - Or create a login and password for the bot and the bot login, scraping data, match it, and give it to you as csv (automate for scraping everyday)
+- After scraping we can generatre an email script so the bot will notify us that its done scraping and check the csv
 
 © 2025 PNpilot Project — built with ❤️ by Reda
