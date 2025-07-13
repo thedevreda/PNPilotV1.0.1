@@ -404,5 +404,7 @@ ILS_PASS=your_password
 | Later expose this data via API (e.g., FastAPI)   | ✅ **JSON**             |
 | Store everything for later search, stats, audits | ✅ **PostgreSQL (SQL)** |
 
-- More...
+- To avoid overscraping filter the outcome of data by date for like a week (like filter data for this week not for the previous one)
+
+---
 © 2025 PNpilot Project — built with ❤️ by Reda
