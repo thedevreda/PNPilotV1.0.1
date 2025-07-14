@@ -405,6 +405,7 @@ ILS_PASS=your_password
 | Store everything for later search, stats, audits | ✅ **PostgreSQL (SQL)** |
 
 - To avoid overscraping filter the outcome of data by date for like a week (like filter data for this week not for the previous one)
+- Find a way to delete the output files in modify time to avoid larging the storage
 
 ---
 © 2025 PNpilot Project — built with ❤️ by Reda
